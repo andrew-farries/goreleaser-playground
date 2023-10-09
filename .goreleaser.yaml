@@ -27,7 +27,7 @@ archives:
 brews:
   - name: goreleaser-playground
     homepage: "https://github.com/andrew-farries/goreleaser-playground"
-    description: "Gorelease playground"
+    description: "Goreleaser playground"
     repository:
       owner: andrew-farries
       name: goreleaser-playground
