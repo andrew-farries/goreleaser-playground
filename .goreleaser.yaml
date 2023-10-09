@@ -24,6 +24,13 @@ archives:
     format_overrides:
       - goos: windows
         format: zip
+brews:
+  - name: goreleaser-playground
+    homepage: "https://github.com/andrew-farries/goreleaser-playground"
+    description: "Gorelease playground"
+    repository:
+      owner: andrew-farries
+      name: goreleaser-playground
 
 changelog:
   sort: asc
