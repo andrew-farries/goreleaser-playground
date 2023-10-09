@@ -30,7 +30,7 @@ brews:
     description: "Goreleaser playground"
     repository:
       owner: andrew-farries
-      name: goreleaser-playground
+      name: homebrew-goreleaser-playground
 
 changelog:
   sort: asc
