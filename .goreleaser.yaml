@@ -35,9 +35,9 @@ brews:
       owner: andrew-farries
       name: homebrew-goreleaser-playground
 
-dockers:
-  - image_templates:
-      - andrew-farries/goreleaser-playground
+# dockers:
+#   - image_templates:
+#       - andrew-farries/goreleaser-playground
 
 changelog:
   sort: asc
