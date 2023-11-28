@@ -1,3 +1,3 @@
 FROM scratch
-COPY mybin /
-ENTRYPOINT ["/mybin"]
+COPY goreleaser-playground /
+ENTRYPOINT ["/goreleaser-playground"]
