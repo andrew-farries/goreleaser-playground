@@ -1,0 +1,1 @@
+A temporary Dockerfile that upgrades the `goreleaser/goreleaser-cross` image to use a later version of `goreleaser`. This was built as a one-time thing to work around [a bug](https://github.com/goreleaser/goreleaser/pull/5298) present in `goreleaser` `2.4.4`.
